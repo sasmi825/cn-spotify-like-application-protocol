@@ -1,0 +1,81 @@
+{
+  "catalog": [
+    {
+      "id": 0,
+      "song_title": "Stairway to Heaven",
+      "artist": "Led Zepplin",
+      "album": "Led Zepplin IV",
+      "duration": 475
+    },
+    {
+      "id": 1,
+      "song_title": "Immigrant Song",
+      "artist": "Led Zepplin",
+      "album": "Led Zepplin III",
+      "duration": 248
+    },
+    {
+      "id": 2,
+      "song_title": "Summer Breeze",
+      "artist": "Seals & Crofts",
+      "album": "Summer Breeze",
+      "duration": 205
+    },
+    {
+      "id": 3,
+      "song_title": "Angel Flying Too Close To The Ground",
+      "artist": "Willie Nelson",
+      "album": "Honeysuckle Rose",
+      "duration": 227
+    },
+    {
+      "id": 4,
+      "song_title": "It's My Life",
+      "artist": "Bon Jovi",
+      "album": "Crush",
+      "duration": 267
+    },
+    {
+      "id": 5,
+      "song_title": "Life of Ram",
+      "artist": "Pradeep Kumar, Govind Vasantha",
+      "album": "'96'",
+      "duration": 372
+    },
+    {
+      "id": 6,
+      "song_title": "Le Le Le Le",
+      "artist": "KK",
+      "album": "Gudumba Shankar",
+      "duration": 374
+    },
+    {
+      "id": 7,
+      "song_title": "Yamuna Thatilo",
+      "artist": "Swarnalatha",
+      "album": "Dalapathi",
+      "duration": 121
+    },
+    {
+      "id": 8,
+      "song_title": "Sundari Nene Nuvvanta",
+      "artist": "SP Balu, Chitra",
+      "album": "Dalapathi",
+      "duration": 435
+    },
+    {
+      "id": 9,
+      "song_title": "Aura Ammaka Chella",
+      "artist": "SP Balu, AR Rahman",
+      "album": "Aapadbandhavudu",
+      "duration": 349
+    },
+    {
+      "id": 10,
+      "song_title": "How You Like That",
+      "artist": "Black Pink",
+      "album": "The Album",
+      "duration": 184
+    }
+  ]
+}
